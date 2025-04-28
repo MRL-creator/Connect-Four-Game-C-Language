@@ -30,11 +30,11 @@ This repository contains a C implementation of the classic **Connect Four** game
    ```
 ### 3. **Compile the game**:
    ```bash
-   gcc -o connect4 connect4.c
+   gcc -o ConnectFour ConnectFour.c
    ```
 ### 4. **Run the game**:
    ```bash
-   ./connect4
+   ./ConnectFour
    ```
 ## How to Play
 
